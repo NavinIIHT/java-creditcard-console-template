@@ -22,6 +22,7 @@ public class CardInventory {
 	}
 
 	public String showCardStatus(Long cardNumber) {
+		// The method will return Active or Inactive 
 		return "";
 	}
 
